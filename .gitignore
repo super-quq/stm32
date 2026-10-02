@@ -1,0 +1,20 @@
+# Keil MDK 编译生成的临时文件，不上传
+DebugConfig/
+Listings/
+Objects/
+*.uvgui*
+*.scvd
+*.bak
+*.dep
+*.crf
+*.hex
+*.axf
+*.elf
+*.map
+*.lst
+*.o
+*.d
+
+# Windows系统垃圾
+.DS_Store
+Thumbs.db
